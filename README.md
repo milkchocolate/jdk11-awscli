@@ -1,0 +1,3 @@
+- docker build -t jdk11-awscli .
+- docker tag jdk11-awscli aaronyunan/jdk11-awscli
+- docker push aaronyunan/jdk11-awscli:latest
